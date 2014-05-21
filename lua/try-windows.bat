@@ -1,0 +1,1 @@
+start lua -e "dofile('gacs.lua') tryIt()
